@@ -15,7 +15,7 @@
 	<scm>
 		<connection>${scmurl}</connection>
 		<developerConnection>${scmurl}</developerConnection>
-		<url>scm:git:https://github.com/ÓÃ»§Ãû</url>
+			<url>scm:git:https://github.com/ç”¨æˆ·å</url>
 	</scm>
 	<properties>
 		<scmurl>scm:git:git@github.com:shidakai/db-oracle.git</scmurl>
